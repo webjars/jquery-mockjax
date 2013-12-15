@@ -47,6 +47,14 @@
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>jquery</artifactId>
+            <version>1.8.2</version>
+        </dependency>
+    </dependencies>
+
     <build>
         <plugins>
             <plugin>
