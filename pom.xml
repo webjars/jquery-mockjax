@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-mockjax</artifactId>
-    <version>1.5.3-SNAPSHOT</version>
+    <version>1.5.3</version>
     <name>JQuery Mockjax</name>
     <description>WebJar for JQuery Mockjax</description>
     <url>http://webjars.org</url>
@@ -41,7 +41,7 @@
         <url>http://github.com/webjars/jquery-mockjax</url>
         <connection>scm:git:https://github.com/webjars/jquery-mockjax.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-mockjax.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jquery-mockjax-1.5.3</tag>
     </scm>
     
    
