@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-mockjax</artifactId>
-    <version>1.5.3</version>
+    <version>1.5.3-SNAPSHOT</version>
     <name>JQuery Mockjax</name>
     <description>WebJar for JQuery Mockjax</description>
     <url>http://webjars.org</url>
@@ -26,7 +26,12 @@
 
     <licenses>
         <license>
-            <name>Dual licensed MIT or GPL license</name>
+            <name>MIT</name>
+            <url>http://appendto.com/open-source-licenses</url>
+            <distribution>repo</distribution>
+        </license>
+        <license>
+            <name>GPL</name>
             <url>http://appendto.com/open-source-licenses</url>
             <distribution>repo</distribution>
         </license>
